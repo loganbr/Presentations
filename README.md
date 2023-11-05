@@ -4,6 +4,9 @@
 Hackers to Hackers Conference - São Paulo - Brasil
 https://www.h2hc.com.br 
 
+Ekoparty Security Conference - Buenos Aires - Argentina
+https://ekoparty.org
+
 Nullbyte Security Conference - Salvador - Bahia Brasil
 https://www.nullbyte-con.org
 
