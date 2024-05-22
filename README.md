@@ -10,6 +10,9 @@ https://ekoparty.org
 Nullbyte Security Conference - Salvador - Bahia Brasil
 https://www.nullbyte-con.org
 
+YSTS - You sh0t the Sheriff
+https://ysts.org
+
 Security BsidesSP - São Paulo Brasil
 https://securitybsides.com.br
 
