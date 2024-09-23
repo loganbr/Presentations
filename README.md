@@ -39,3 +39,6 @@ www.sympla.com.br/evento/hacking-na-web-day-sp/2547003
 
 MindTheSec - São Brasil<br>
 https://www.mindthesec.com.br
+
+Campus Party - São Paulo - Brasil<br>
+https://brasil.campus-party.org
