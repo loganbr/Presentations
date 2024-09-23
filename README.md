@@ -19,6 +19,9 @@ https://ysts.org
 Security BsidesSP - São Paulo Brasil 
 https://securitybsides.com.br
 
+Bsides Montreal - Canada
+https://bsidesmtl.ca
+
 Bhack Conference - Belo Horizonte - Minas Gerais Brasil 
 https://www.bhack.com.br
 
@@ -27,3 +30,12 @@ https://www.andsec.org
 
 Congresso Latino-Americano de Software Livre e Tecnologias Abertas (Latinoware) - Foz do Iguaçu - Parana Brasil 
 https://latinoware.org
+
+BXSec - Santos - Brasil
+https://bxsec.org
+
+Hacking na Web Day - São Paulo - Brasil
+www.sympla.com.br/evento/hacking-na-web-day-sp/2547003
+
+MindTheSec - São Brasil
+https://www.mindthesec.com.br
