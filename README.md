@@ -1,46 +1,72 @@
 # Presentations
-# About Conferences:
+> offensive security • macOS • Red Team • Research   
 
-- :contentReference[oaicite:0]{index=0} TESTE
+Slides & Talks
 
-H2HC (Hackers to Hackers Conference) - São Paulo - Brasil<br>
-https://www.h2hc.com.br
+# 💀 About Conferences 💀
 
-Defcon - Las Vegas - USA<br>
-https://redteamvillage.io
+Evento: H2HC (Hackers to Hackers Conference) - São Paulo - Brasil 🇧🇷 
+Link: https://www.h2hc.com.br
 
-Ekoparty Security Conference - Buenos Aires - Argentina<br>
-https://ekoparty.org
+Evento: Defcon - Las Vegas - USA 🇺🇸
+Link: https://redteamvillage.io
 
-Nullbyte Security Conference - Salvador - Bahia Brasil<br>
-https://www.nullbyte-con.org
+Evento: Ekoparty Security Conference - Buenos Aires - Argentina 🇦🇷
+Link: https://ekoparty.org
 
-YSTS - You sh0t the Sheriff - São Paulo - Brasil<br>
-https://ysts.org
+Evento: Nullbyte Security Conference - Salvador - Bahia Brasil 🇧🇷 
+Link: https://www.nullbyte-con.org
 
-Security BsidesSP - São Paulo Brasil<br>
-https://securitybsides.com.br
+Evento: YSTS - You sh0t the Sheriff - São Paulo - Brasil 🇧🇷 
+Link: https://ysts.org
 
-Bsides Montreal - Canada<br>
-https://bsidesmtl.ca
+Evento: Security BsidesSP - São Paulo Brasil 🇧🇷 
+Link: https://securitybsides.com.br
 
-Bhack Conference - Belo Horizonte - Minas Gerais Brasil<br>
-https://www.bhack.com.br
+Evento: Bsides Montreal - Canada 🇨🇦
+Link: https://bsidesmtl.ca
 
-Andsec Security Conference - Buenos Aires - Argentina<br>
-https://www.andsec.org
+Evento: Bhack Conference - Belo Horizonte - Minas Gerais Brasil 🇧🇷 
+Link: https://www.bhack.com.br
 
-Congresso Latino-Americano de Software Livre e Tecnologias Abertas (Latinoware) - Foz do Iguaçu - Parana Brasil<br>
-https://latinoware.org
+Evento: Andsec Security Conference - Buenos Aires - Argentina 🇦🇷
+Link: https://www.andsec.org
 
-BXSec - Santos - Brasil<br>
-https://bxsec.org
+Evento: 8.8 - Santiago - Chile 🇨🇱
+Link: https://8dot8.org
 
-Hacking na Web Day - São Paulo - Brasil<br>
-www.sympla.com.br/evento/hacking-na-web-day-sp/2547003
+Evento: HackinCariri - Juazeiro do Norte - Brasil 🇧🇷 
+Link: https://www.hackincariri.com.br
 
-MindTheSec - São Brasil<br>
-https://www.mindthesec.com.br
+Evento: DragonJAR - Medellin - Colombia 🇨🇴
+Link: https://www.dragonjarcon.org
 
-Campus Party - São Paulo - Brasil<br>
-https://brasil.campus-party.org
+Evento: 0xE H4ck3R Conference - Maceio - Brasil 🇧🇷 
+Link: https://conference.oxehc.com.br
+
+Evento: Congresso Latino-Americano de Software Livre e Tecnologias Abertas (Latinoware) - Foz do Iguaçu - Parana Brasil 🇧🇷 
+Link: https://latinoware.org
+
+Evento: BXSec - Santos - Brasil 🇧🇷 
+Link: https://bxsec.org
+
+Evento: Hacking na Web Day - São Paulo - Brasil 🇧🇷 
+Link: www.sympla.com.br/evento/hacking-na-web-day-sp/2547003
+
+Evento: MindTheSec - São Paulo - Brasil 🇧🇷 
+Link: https://www.mindthesec.com.br
+
+Evento: Campus Party - São Paulo - Brasil 🇧🇷 
+Link: https://brasil.campus-party.org
+
+Evento: Gynsec - Goiás - Brasil 🇧🇷 
+Link: https://gynsec.com.br
+
+Evento: Nerdzão - São Paulo - Brasil 🇧🇷 
+Link: Não Disponível
+
+Evento: Roadsec - Fortaleza / São Paulo - Brasil 🇧🇷 
+Link: Não Disponível
+
+- all content for educational purposes only  
+- some talks may have updated versions
